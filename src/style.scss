@@ -1,0 +1,9 @@
+@import '../scss/ps';
+
+.hljs {
+    position: relative;
+    overflow: hidden;
+    white-space: pre !important;
+    padding: 2rem;
+    border-radius: .375rem;
+}
